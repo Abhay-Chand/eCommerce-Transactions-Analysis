@@ -20,10 +20,10 @@ The goal of this project was to gain insights into customer behavior, identify s
 
 ## Files
 
-*   `EDA.ipynb`: Jupyter Notebook containing the exploratory data analysis and business insights.
-*   `Lookalike.ipynb`: Jupyter Notebook containing the lookalike model development and results.
-*   `Clustering.ipynb`: Jupyter Notebook containing the customer segmentation and clustering analysis.
-*   `Lookalike.csv`: CSV file containing the top 3 lookalikes for each customer.
+*   `Abhay_Chand_EDA.ipynb`: Jupyter Notebook containing the exploratory data analysis and business insights.
+*   `Abhay_Chand_Lookalike.ipynb`: Jupyter Notebook containing the lookalike model development and results.
+*   `Abhay_Chand_Clustering.ipynb`: Jupyter Notebook containing the customer segmentation and clustering analysis.
+*   `Abhay_Chand_Lookalike.csv`: CSV file containing the top 3 lookalikes for each customer.
 *   `Customers.csv`: CSV file containing customer data.
 *   `Products.csv`: CSV file containing product data.
 *   `Transactions.csv`: CSV file containing transaction data.
@@ -37,17 +37,3 @@ The goal of this project was to gain insights into customer behavior, identify s
 ## Conclusion
 
 This project provides a comprehensive analysis of the eCommerce transactions dataset. The insights gained from this analysis can be used to improve marketing strategies, personalize customer experiences, and optimize product offerings.
-
-**Feel free to explore the Jupyter Notebooks and CSV files to learn more about the analysis and results.**
-
-## Interactive Visualizations
-
-The following interactive visualizations were created as part of this analysis:
-
-### Customer Clusters
-
-[Interactive scatter plot of customer clusters]
-
-This scatter plot visualizes the customer clusters based on the first two principal components. You can hover over each point to see the customer ID, principal component values, and cluster assignment.
-
-**Note:** To view the interactive visualizations, you need to run the Jupyter Notebooks in your local environment.
