@@ -4,7 +4,7 @@ This repository contains a comprehensive analysis of an eCommerce transactions d
 
 ## Project Overview
 
-The goal of this project was to gain insights into customer behavior, identify similar customers, and segment customers into distinct groups based on their purchasing patterns. The analysis was divided into three main tasks:
+The goal of this project was to gain insights into customer behavior, identify similar customers, and segment customers into distinct groups based on their purchasing patterns. The analysis was divided into three main tasks :
 
 1. **Exploratory Data Analysis (EDA) and Business Insights:**
    - Conducted EDA to understand the data and identify key trends and patterns.
@@ -12,7 +12,7 @@ The goal of this project was to gain insights into customer behavior, identify s
 
 2. **Lookalike Model:**
    - Built a model to identify similar customers based on their transaction history and customer profile.
-   - Generated a list of the top 3 lookalikes for each customer.
+   - Generated a list of the top 3 lookalikes for each customer.   
 
 3. **Customer Segmentation / Clustering:**
    - Segmented customers into distinct groups based on their purchasing behavior using the K-means clustering algorithm.
